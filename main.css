@@ -1,9 +1,14 @@
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+<head>
+
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
 
 		body {
-    background-color:#f5fffa;
+    		background-color:#f5fffa;
 }
 
 h1 {
     color:696969;
-    margin-left: 20px;
+    
+ }
+
+ </head>	
