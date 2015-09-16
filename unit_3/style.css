@@ -6,20 +6,20 @@ body {
 	background-color: gray;
 	background-size: cover;
 	color: #F08080;
-	font-size: 20px;
+	font-size: 40px;
 	font-family: Helvetica; alt="sans serif"; 
 	font-weight: normal;
 
 }
 
 h1 {
-	font size: 30px;
+	font size: 70px;
 }
 
 #slogan	
 	{
-	text-align: center;
 	text-decoration: italic;
+
 }
 
 p {
