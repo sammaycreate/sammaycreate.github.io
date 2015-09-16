@@ -1,6 +1,8 @@
 body {
 	text-align: center;
 	background: url("http://bit.ly/1iupkMA");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
 	background-color: gray;
 	background-size: cover;
 	color: #F08080;
@@ -10,28 +12,20 @@ body {
 
 }
 
-
 h1 {
 	font size: 30px;
 }
-a:link {
-	color: #000000;
-	text-decoration: none;
-}
-a:hover {
-	color: #FFA07A;
-	text-decoration: none;
-
 
 #slogan	
 	{
-	
 	text-align: center;
-	list-style-type: none;
 	text-decoration: italic;
 }
 
+p {
+	text-align; right: 
+}
+
 ul {
-	text-align: right;
 	font-size= 18px;
 }
