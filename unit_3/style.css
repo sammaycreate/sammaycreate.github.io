@@ -23,11 +23,12 @@ h1 {
 
 p.ex {
     height: 100px;
-    width: 80px;
+    width: 60px;
 }
 
 ul {
 	font-size: 18px;
+	font-color: #FFFFFF;
 }
 
 a {
