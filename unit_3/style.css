@@ -1,8 +1,9 @@
 body {
-	text-align: center;
+	text-align: right;
 	background: url("http://bit.ly/1iupkMA");
 	background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
 	background-color: gray;
 	color: #F08080;
 	font-size: 25px;
