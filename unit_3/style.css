@@ -28,7 +28,7 @@ p.ex {
 
 ul {
 	font-size: 18px;
-	font-color: #FFFFFF;
+	color: #FFFFFF;
 }
 
 a {
@@ -38,5 +38,5 @@ a {
 	font-family:Helvetica;
 	font-style:normal;
 	font-weight:normal;
-	text-align:center;
+	text-align:right;
 }
