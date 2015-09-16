@@ -18,7 +18,7 @@ h1 {
 
 #slogan	
 	{
-	text-decoration: italic;
+	text-style: italic;
 }
 
 p.ex {
@@ -28,7 +28,6 @@ p.ex {
 
 ul {
 	font-size: 18px;
-	text-align: center;
 }
 
 a {
@@ -36,7 +35,6 @@ a {
 	color: #FFFFFF;
 	hover: #F08080;
 	font-family:Helvetica;
-	font-size:14px;
 	font-style:normal;
 	font-weight:normal;
 	text-align:center;
