@@ -28,11 +28,6 @@ h1 {
 	font-family: 'Playfair Display', serif;
 }
 
-#slogan	
-	{
-	color: #FFFFFF;
-}
-
 p.ex {
     height: 100px;
     width: 60px;
@@ -44,14 +39,12 @@ ul {
 	color: #000000;
 }
 
-a {
-	text-decoration: none;
-	color: ##009999;
-	hover: #80CCCC;
-	font-family:Helvetica;
-	font-style:normal;
-	font-weight:normal;
-	text-align:right;
+a:hover{
+	color: #80CCCC;
+}
+
+a:active{
+	color: #009999;
 }
 
 .blogcopy {
