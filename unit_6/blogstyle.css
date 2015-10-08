@@ -54,6 +54,11 @@ a {
 	text-align:right;
 }
 
+.blogcopy {
+  clear: both;
+  margin: 1em 0;
+  padding: 1em .25em;
+
 ul.rig {
 	list-style: none;
 	font-size: 0px;

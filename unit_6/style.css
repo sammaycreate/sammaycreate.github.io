@@ -4,7 +4,13 @@
 header {
 	font-size: 100px;
 	font-family: 'playfair Display', serif;
-	nav: 50px;
+
+}
+
+nav {
+	font-size: 50px;
+	color: ##009999;
+	hover: #80CCCC;
 
 }
 
