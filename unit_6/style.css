@@ -46,14 +46,15 @@ ul {
 	color: #000000;
 }
 
-a {
-	text-decoration: none;
-	color: ##009999;
-	hover: #80CCCC;
-	font-family:Helvetica;
-	font-style:normal;
-	font-weight:normal;
-	text-align:right;
+a:hover{
+	color: #80CCCC;
+}
+
+a:visited {
+  text-decoration: none;
+
+a:active {
+	color: #009999;
 }
 
 ul.rig {

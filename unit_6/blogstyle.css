@@ -29,10 +29,10 @@ h1 {
 }
 
 p {
-    padding-top: 25px;
-    padding-right: 50px;
-    padding-bottom: 25px;
-    padding-left: 50px;
+    padding-top: 15px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    padding-left: 60px;
 }
     
 }
@@ -45,6 +45,9 @@ ul {
 a:hover{
 	color: #80CCCC;
 }
+
+a:visited {
+  text-decoration: none;
 
 a:active{
 	color: #009999;
