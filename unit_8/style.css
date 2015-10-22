@@ -52,3 +52,24 @@ a {
 	font-weight:normal;
 	text-align:right;
 }
+
+
+.footerbanner {
+	background-color:#000000;
+	width:100%;
+	float:left;
+}
+footer {
+	padding-top:5em;
+	font-size:.8em;
+	text-align:center;
+	clear:both;
+	font-color:black;
+	padding:1em;
+	color:#000000;
+}
+.wrapper {
+	float:left;
+	background-color:#000000;
+	width:100%;
+}
